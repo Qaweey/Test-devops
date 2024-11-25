@@ -1,0 +1,44 @@
+1. Differences between Cloud Computing and On Prem environment
+---------------------------------------------------------------
+
+a)Infrastructure:
+
+Cloud: Hosted by a third-party provider (e.g., AWS, Azure, Google Cloud).
+On-Premises: Managed in-house on physical servers and data centers.
+
+b)Cost:
+Cloud: Pay-as-you-go model; no upfront hardware costs.
+On-Premises: Requires significant upfront investment in hardware and maintenance.
+
+c)Scalability:
+
+Cloud: Instantly scalable to meet demand.
+On-Premises: Limited by available hardware; scaling requires physical upgrades.
+
+d)Maintenance:
+Cloud: Provider handles updates, security, and maintenance.
+On-Premises: Organization manages and secures its own infrastructure.
+
+e)Accessibility:
+Cloud: Accessible globally via the internet.
+On-Premises: Limited to the organization's internal network unless integrated with remote access solutions.
+
+2.List five advantages of on Prem environments.
+-----------------------------------------------
+a) Data Control: Full control over sensitive data and infrastructure, ensuring compliance with strict regulations.
+
+b)  Security: Greater ability to customize and enforce security measures tailored to specific needs.
+
+c)Latency: On-prem environments offer lower latency for applications requiring real-time processing.
+
+d)Customization: Complete control to customize hardware and software to meet specific business requirements.
+
+e)No Dependency on Internet: Does not rely on external internet connectivity, ensuring uninterrupted operations locally.
+
+3. list and describe the other cloud service models.
+--------------------------------------------------------
+
+a)FaaS (Function as a Service): A serverless computing model where developers run specific code functions without managing servers, paying only for execution time. Examples: AWS Lambda, Azure Functions.
+
+b)BPaaS (Business Process as a Service): Automates specific business processes through cloud-based services, often integrated with other cloud solutions. Examples: Payroll or HR management services.
+
